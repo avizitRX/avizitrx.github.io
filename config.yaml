@@ -146,14 +146,14 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: false
+      enabled: true
       services:
         # Google Analytics
-        google:
-          id: G-H4LBG7NDFZ
+        # google:
+        #  id: G-H4LBG7NDFZ
         # # CounterDev
-        # counterDev:
-        #   id: <your counterdev id>
+        counterDev:
+          id: avizitrx
         # # GoatCounter
         # goatCounter:
         #   code: <your goat counter code>
