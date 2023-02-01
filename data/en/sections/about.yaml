@@ -8,51 +8,68 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Web Developer
 # your company information
-company:
-  name: Example Co.
-  url: "https://www.example.com"
+# company:
+#   name: Example Co.
+#   url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'Hi there! I am Avizit Roy aka avizitRX, a computer science student, a geek at heart, and a skilled WordPress developer. In addition to my studies, I enjoy writing blogs and using my knowledge of the latest technologies to create engaging and user-friendly websites.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "avizitrx@protonmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/avizitRX"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
-
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+  url: "https://linkedin.com/in/avizitrx"
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "#"
+  url: "https://facebook.com/avizitRX"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/avizitRX"
+
+- name : Instagram
+  icon: "fab fa-instagram"
+  url: "https://instagram.com/avizitrx"
+
+- name : Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/LivingOnTech"
+
+- name : Dribbble
+  icon: "fab fa-dribbble"
+  url: "https://dribbble.com/avizitRX"
+
+- name : Behance
+  icon: "fab fa-behance"
+  url: "https://behance.net/avizitRX"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
-resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
+
+# resourceLinks:
+# - title: "My Resume"
+#   url: "files/resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
