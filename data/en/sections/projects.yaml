@@ -1,0 +1,44 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Clothing Store Management System
+  role: Developer
+  timeline: "December 2022"
+  repo: https://github.com/avizitRX/Clothing-Store-Management-System
+  summary: A beautiful clothing store management system built using C#.
+  tags: ["academic"]
+
+- name: My Personal Website
+  role: Developer
+  timeline: "February 2023 - Present"
+  repo: https://github.com/avizitRX/avizitrx.github.io
+  summary: Portfolio and personal blog of Avizit Roy aka avizitRX.
+  tags: ["hobby"]
+
+- name: Dream Home
+  logo: /images/sections/projects/dream_home.png
+  role: Developer
+  timeline: "October 2022"
+  url: "https://www.dreamhomebd.com"
+  summary: Developed this website for a construction company.
+  tags: ["professional"]
