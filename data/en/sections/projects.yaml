@@ -21,19 +21,19 @@ buttons:
 
 # your projects
 projects:
+- name: My Personal Website [This Website]
+  role: Developer
+  timeline: "February 2023 - Present"
+  repo: https://github.com/avizitRX/avizitrx.github.io
+  summary: Portfolio and personal blog of Avizit Roy aka avizitRX.
+  tags: ["hobby"]
+
 - name: Clothing Store Management System
   role: Developer
   timeline: "December 2022"
   repo: https://github.com/avizitRX/Clothing-Store-Management-System
   summary: A beautiful clothing store management system built using C#.
   tags: ["academic"]
-
-- name: My Personal Website
-  role: Developer
-  timeline: "February 2023 - Present"
-  repo: https://github.com/avizitRX/avizitrx.github.io
-  summary: Portfolio and personal blog of Avizit Roy aka avizitRX.
-  tags: ["hobby"]
 
 - name: Dream Home
   logo: /images/sections/projects/dream_home.png
