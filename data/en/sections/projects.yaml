@@ -18,6 +18,8 @@ buttons:
   filter: "academic"
 - name: Hobby
   filter: "hobby"
+- name: WordPress
+  filter: "wordpress"
 
 # your projects
 projects:
@@ -42,3 +44,10 @@ projects:
   url: "https://www.dreamhomebd.com"
   summary: Developed this website for a construction company.
   tags: ["professional"]
+  
+- name: Hotel Booking Website
+  role: Developer
+  timeline: "March 2023"
+  url: "https://dribbble.com/shots/20946316-Hill-Shell-Resort-Hotel-Booking-WordPress-Website"
+  summary: A website template for Hotel/Resort Business designed using HotelFT theme.
+  tags: ["wordpress"]
