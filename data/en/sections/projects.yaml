@@ -23,6 +23,13 @@ buttons:
 
 # your projects
 projects:
+- name: Gym Website
+  role: Developer
+  timeline: "March 2023"
+  url: "https://dribbble.com/shots/20979324-Elevate-Fitness-a-Gym-Website"
+  summary: A website template for Gym developed on WordPress.
+  tags: ["wordpress"]
+
 - name: Hotel Booking Website
   role: Developer
   timeline: "March 2023"
