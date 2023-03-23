@@ -75,10 +75,10 @@ params:
 
     # Enable dark theme
     darkMode:
-      enable: true
+      enable: false
       services:
         darkreader:
-          defaultColorScheme: light # options are 'system', 'dark', 'light'
+          defaultColorScheme: dark # options are 'system', 'dark', 'light'
           fixes:
             invert: ['img[src$=".svg"]'] # inverts svg colors.
           theme:
