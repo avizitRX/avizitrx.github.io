@@ -23,6 +23,13 @@ buttons:
 
 # your projects
 projects:
+- name: CoutureConnect - Ecommerce Website
+  role: Developer
+  timeline: "April 2023"
+  url: "https://dribbble.com/shots/21195606-CoutureConnect-Fashion-Ecommerce-Website"
+  summary: Minimal, yet featureful ecommerce website design using Elementor.
+  tags: ["wordpress"]
+
 - name: Gym Website
   role: Developer
   timeline: "March 2023"
