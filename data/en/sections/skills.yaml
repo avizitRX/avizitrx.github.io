@@ -35,14 +35,9 @@ skills:
 #   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
 #   url: "https://prometheus.io/"
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+- name: Wordpress
+  logo: /images/sections/skills/wordpress.png
+  summary: "Playing with Wordpress for a long time. Built 100+ websites from scratch."
 
 - name: C++
   logo: /images/sections/skills/c-plus-plus.png
@@ -56,6 +51,11 @@ skills:
   logo: /images/sections/skills/javascript.png
   summary: "Learned JavaScript to do Web Development. Also familiar with React.js and Node.js."
 
-- name: Wordpress
-  logo: /images/sections/skills/wordpress.png
-  summary: "Playing with Wordpress for a long time. Built 100+ websites from scratch."
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  url: "https://git-scm.com/"
