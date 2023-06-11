@@ -28,17 +28,9 @@ socialLinks:
   icon: "fas fa-envelope"
   url: "avizitrx@protonmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://github.com/avizitRX"
-
 # - name: Stackoverflow
 #   icon: "fab fa-stack-overflow"
 #   url: "#"
-
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://linkedin.com/in/avizitrx"
 
 - name: Facebook
   icon: "fab fa-facebook"
@@ -52,9 +44,13 @@ socialLinks:
   icon: "fab fa-instagram"
   url: "https://instagram.com/avizitrx"
 
-- name : Telegram
-  icon: "fab fa-telegram"
-  url: "https://t.me/LivingOnTech"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://linkedin.com/in/avizitrx"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/avizitRX"
 
 - name : Dribbble
   icon: "fab fa-dribbble"
@@ -63,6 +59,10 @@ socialLinks:
 - name : Behance
   icon: "fab fa-behance"
   url: "https://behance.net/avizitRX"
+  
+- name : Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/LivingOnTech"
 
 - name: Mastadon
   icon: "fab fa-mastodon"
