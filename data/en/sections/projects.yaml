@@ -23,6 +23,13 @@ buttons:
 
 # your projects
 projects:
+- name: SEO Magic - Agency Business Website
+  role: Developer
+  timeline: "June 2023"
+  url: "https://dribbble.com/shots/21803961-SEO-Magic-Agency-Business-Website"
+  summary: Sleek and modern design that exudes professionalism and credibility.
+  tags: ["wordpress"]
+
 - name: CoutureConnect - Ecommerce Website
   role: Developer
   timeline: "April 2023"
